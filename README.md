@@ -61,7 +61,7 @@ To view the interactive plots click on prediction section <a href="https://smart
 # <a name="author"></a>Authors
 * <b>Prateek Surana   </b>
 <a href="mailto:prateeksurana3255@gmail.com">Email</a>
-* <b>Ayush Gupta   </b>
-<a href="mailto:ayushgupta197@gmail.com">Email</a>
-* <b>Vaibhav Sankhala   </b>
-<a href="mailto:Vaibhavrocks0501@gmail.com">Email</a>
+* <b>Dheeraj Khandelwal   </b>
+<a href="mailto:dkhandelwal168@gmail.com">Email</a>
+* <b>Divyansh Soni   </b>
+<a href="mailto:divyanshsn97@gmail.com">Email</a>
